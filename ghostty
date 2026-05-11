@@ -1,0 +1,9 @@
+theme = Catppuccin Macchiato
+shell-integration-features = no-cursor,ssh-env
+cursor-style = block
+
+window-height = 30
+window-width = 100
+
+background-opacity = 0.8
+background-blur-radius = 80
